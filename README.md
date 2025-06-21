@@ -26,11 +26,11 @@ The game gets harder with each level.
 If you click the wrong color, the game ends — and your score is compared to the high score!
 
 Project Structure
-Simon-FlashLight-Game/
-│
-├── index.html        # Main HTML structure
-├── style.css         # Styling and animations
-└── app.js            # Game logic and user interaction
+Simon-FlashLight-Game
+
+index.html        # Main HTML structure
+ style.css         # Styling and animations
+ app.js            # Game logic and user interaction
 
 💡 Tech Stack
 HTML5 for structure
