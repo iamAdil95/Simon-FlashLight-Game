@@ -2,7 +2,7 @@
 A fun and interactive browser-based memory game inspired by the classic Simon Game. This game challenges users to remember and reproduce an increasingly long sequence of flashing lights.
 
 🚀 Features
-🔴🟡🟢🟣 Color-based sequence memory game.
+ Color-based sequence memory game.
 
 🧠 Difficulty increases with each level.
 
@@ -28,9 +28,12 @@ If you click the wrong color, the game ends — and your score is compared to th
 Project Structure
 Simon-FlashLight-Game
 
-index.html        # Main HTML structure
- style.css         # Styling and animations
- app.js            # Game logic and user interaction
+index.html     
+# Main HTML structure
+ style.css     
+ # Styling and animations
+ app.js     
+ # Game logic and user interaction
 
 💡 Tech Stack
 HTML5 for structure
