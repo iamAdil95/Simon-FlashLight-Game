@@ -1,4 +1,4 @@
-🎮 Simon FlashLight Game
+🎮 Simon FlashLight Game - (REQUIRES KEYBOARD TO PLAY)
 A fun and interactive browser-based memory game inspired by the classic Simon Game. This game challenges users to remember and reproduce an increasingly long sequence of flashing lights.
 
 🚀 Features
@@ -9,9 +9,6 @@ A fun and interactive browser-based memory game inspired by the classic Simon Ga
 💾 Persistent High Score stored using localStorage.
 
 🎉 Visual feedback with animations for game progress and user actions.
-
-📱 Fully responsive and playable on desktop or mobile browsers.
-
 
 
 🧩 How to Play
@@ -24,16 +21,6 @@ Repeat the sequence by clicking the colored buttons.
 The game gets harder with each level.
 
 If you click the wrong color, the game ends — and your score is compared to the high score!
-
-Project Structure
-Simon-FlashLight-Game
-
-index.html     
-# Main HTML structure
- style.css     
- # Styling and animations
- app.js     
- # Game logic and user interaction
 
 💡 Tech Stack
 HTML5 for structure
