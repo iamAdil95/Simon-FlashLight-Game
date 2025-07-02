@@ -1,4 +1,5 @@
 🎮 Simon FlashLight Game - (REQUIRES KEYBOARD TO PLAY)
+
 A fun and interactive browser-based memory game inspired by the classic Simon Game. This game challenges users to remember and reproduce an increasingly long sequence of flashing lights.
 
 🚀 Features
